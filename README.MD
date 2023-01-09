@@ -6,3 +6,5 @@
 - Przeprowadza RESET Z80.
 - Generuje NMI.
 - Nie zawiera obsługi SD ani innych funkcji.
+## Działa bez układów U1 i U2!!!
+- Można używać w czasie uruchamiania systemu.
